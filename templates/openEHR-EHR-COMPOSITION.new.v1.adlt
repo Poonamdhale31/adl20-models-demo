@@ -8,10 +8,15 @@ language
     original_language = <[ISO_639-1::en]>
     translations = <
         ["sl"] = <
+            accreditation = <"new">
             author = <
                 ["name"] = <"?">
+                ["organisation"] = <"Ocean Informatics">
             >
             language = <[ISO_639-1::sl]>
+            other_details = <
+                ["organisation"] = <"Ocean Informatics">
+            >
         >
     >
     
@@ -21,9 +26,15 @@ description
         ["en"] = <
             keywords = <"progress", "note", "encounter">
             language = <[ISO_639-1::en]>
-            misuse = <"">
+            misuse = <"not encounter">
+            original_resource_uri = <
+                ["organisation"] = <"Ocean Informatics">
+            >
+            other_details = <
+                ["organisation"] = <"Ocean Informatics">
+            >
             purpose = <"Record of encounter as a progress note.">
-            use = <"">
+            use = <"note and progress">
         >
         ["sl"] = <
             keywords = <"progress", "note", "encounter">
@@ -39,6 +50,7 @@ description
         ["name"] = <"Thomas Beale">
         ["date"] = <"2005-10-10">
     >
+    other_contributors = <"new entity">
 
 definition
     COMPOSITION[id1.1] matches {    -- Encounter
