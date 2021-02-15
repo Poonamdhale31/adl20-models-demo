@@ -1,0 +1,15 @@
+{
+  "templates" : [ {
+    "id" : "openEHR-EHR-COMPOSITION.new.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Encounter",
+    "path" : "templates/openEHR-EHR-COMPOSITION.new.v1.adlt",
+    "sha" : "aa3f5f28f6d9dd6fcc9dd13d9fdf75ea1dea1420"
+  }, {
+    "id" : "openEHR-EHR-COMPOSITION.new32.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Encounter",
+    "path" : "templates/openEHR-EHR-COMPOSITION.new32.v1.adlt",
+    "sha" : "35da1f34090a17c710fa578328f9725947bcded9"
+  } ]
+}
