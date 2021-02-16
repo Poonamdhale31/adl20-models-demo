@@ -11,5 +11,11 @@
     "name" : "Encounter",
     "path" : "templates/openEHR-EHR-COMPOSITION.new32.v1.adlt",
     "sha" : "35da1f34090a17c710fa578328f9725947bcded9"
+  }, {
+    "id" : "openEHR-EHR-COMPOSITION.diabetes.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Encounter",
+    "path" : "templates/openEHR-EHR-COMPOSITION.diabetes.v1.adlt",
+    "sha" : "327d2b94079eb86fd63346f8dc4db3d9446ecb43"
   } ]
 }
